@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""Lockboxes"""
+
+
 def canUnlockAll(boxes):
     none_Counter = 0
     key_Counter = 0
